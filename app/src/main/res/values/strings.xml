@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Internet Connectivity</string>
+
+    <string name="messageConnected">Connected</string>
+    <string name="messageDisconnected">Disconnected</string>
+    <string name="messageDisconnecting">Losing connection</string>
+</resources>
